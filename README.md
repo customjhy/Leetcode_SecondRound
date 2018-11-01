@@ -1,2 +1,2 @@
 # Leetcode_SecondRound
-exercise C++
+Use C++ to finish the second round
